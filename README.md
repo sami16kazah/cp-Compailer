@@ -1,4 +1,4 @@
-# this is compiler cp using html java sctipt
+# this is compiler cp (angular clone) using html java sctipt
 <input cp-model="x" /> {{x|lower}}
 <div cp-hide="x > 3"> .... </div>
 <div cp-show="x > 3">.... </div>
